@@ -114,7 +114,7 @@ function draw() {
 
 
 if (mousePressedOver(card1)){
-card1.changeImage("1card",pic1)
+card1.addImage("1card",pic1)
 }
 
 drawSprites();
